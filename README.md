@@ -5,3 +5,6 @@
 
 ### two-by-two, four-by-four grid
 ![](https://github.com/lbias/think-python/blob/master/images/e2_grid.png)
+
+### drawing polygons using turtle
+![](https://github.com/lbias/think-python/blob/master/images/e3_polygon.png)
