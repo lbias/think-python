@@ -77,3 +77,6 @@
 
 ### rotate pairs
 ![](https://github.com/lbias/think-python/blob/master/images/e26_rotate_pairs.png)
+
+### read dictionary
+![](https://github.com/lbias/think-python/blob/master/images/e27_pronounce.png)
