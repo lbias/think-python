@@ -86,3 +86,6 @@
 
 ### summarize shape of data structure
 ![](https://github.com/lbias/think-python/blob/master/images/e29_structshape.png)
+
+### frequency of letters
+![](https://github.com/lbias/think-python/blob/master/images/e30_most_frequent.png)
