@@ -56,3 +56,6 @@
 
 ### word list
 ![](https://github.com/lbias/think-python/blob/master/images/e19_wordlist.png)
+
+### in the list or not
+![](https://github.com/lbias/think-python/blob/master/images/e20_inlist.png)
