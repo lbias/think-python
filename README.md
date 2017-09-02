@@ -50,3 +50,6 @@
 
 ### list exercises
 ![](https://github.com/lbias/think-python/blob/master/images/e17_list_exercises.png)
+
+### birthday paradox
+![](https://github.com/lbias/think-python/blob/master/images/e18_birthday.png)
