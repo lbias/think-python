@@ -71,3 +71,6 @@
 
 ### ackermann memo
 ![](https://github.com/lbias/think-python/blob/master/images/e24_ackermann_memo.png)
+
+### judgment of duplicates
+![](https://github.com/lbias/think-python/blob/master/images/e25_has_duplicates.png)
