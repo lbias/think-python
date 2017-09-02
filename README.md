@@ -32,3 +32,6 @@
 
 ### judgment of palindrome
 ![](https://github.com/lbias/think-python/blob/master/images/e11_palindrome_soln.png)
+
+### estimate of π
+![](https://github.com/lbias/think-python/blob/master/images/e12_pi.png)
