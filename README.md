@@ -14,3 +14,6 @@
 
 ### polypies with various number of radial segments
 ![](https://github.com/lbias/think-python/blob/master/images/e5_pie.png)
+
+### draw python is the best
+![](https://github.com/lbias/think-python/blob/master/images/e6_letters.png)
