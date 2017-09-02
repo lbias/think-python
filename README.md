@@ -95,3 +95,6 @@
 
 ### metathesis pairs
 ![](https://github.com/lbias/think-python/blob/master/images/e32_metathesis.png)
+
+### find all words reducible
+![](https://github.com/lbias/think-python/blob/master/images/e33_reducible.png)
