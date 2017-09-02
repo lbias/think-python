@@ -23,3 +23,6 @@
 
 ### draw an archimedian spiral
 ![](https://github.com/lbias/think-python/blob/master/images/e8_spiral.png)
+
+### draw 3 koch curves to make a snowflake
+![](https://github.com/lbias/think-python/blob/master/images/e9_koch.png)
