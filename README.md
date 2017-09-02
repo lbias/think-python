@@ -68,3 +68,6 @@
 
 ### invert a dictionary
 ![](https://github.com/lbias/think-python/blob/master/images/e23_invert_dict.png)
+
+### ackermann memo
+![](https://github.com/lbias/think-python/blob/master/images/e24_ackermann_memo.png)
