@@ -47,3 +47,6 @@
 
 ### daughter and mother ages
 ![](https://github.com/lbias/think-python/blob/master/images/e16_cartalk3.png)
+
+### list exercises
+![](https://github.com/lbias/think-python/blob/master/images/e17_list_exercises.png)
