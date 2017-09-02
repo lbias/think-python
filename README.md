@@ -38,3 +38,6 @@
 
 ### rotate word
 ![](https://github.com/lbias/think-python/blob/master/images/e13_rotate.png)
+
+### find triple double letters
+![](https://github.com/lbias/think-python/blob/master/images/e14_cartalk1.png)
