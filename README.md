@@ -29,3 +29,6 @@
 
 ### evaluate the ackermann function
 ![](https://github.com/lbias/think-python/blob/master/images/e10_ackermann.png)
+
+### judgment of palindrome
+![](https://github.com/lbias/think-python/blob/master/images/e11_palindrome_soln.png)
