@@ -98,3 +98,6 @@
 
 ### find all words reducible
 ![](https://github.com/lbias/think-python/blob/master/images/e33_reducible.png)
+
+### analyze the words in the book
+![](https://github.com/lbias/think-python/blob/master/images/e34_analyze_book1.png)
