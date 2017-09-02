@@ -83,3 +83,6 @@
 
 ### homophone
 ![](https://github.com/lbias/think-python/blob/master/images/e28_homophone.png)
+
+### summarize shape of data structure
+![](https://github.com/lbias/think-python/blob/master/images/e29_structshape.png)
