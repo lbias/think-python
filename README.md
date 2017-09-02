@@ -92,3 +92,6 @@
 
 ### anagram sets in order
 ![](https://github.com/lbias/think-python/blob/master/images/e31_anagram_sets.png)
+
+### metathesis pairs
+![](https://github.com/lbias/think-python/blob/master/images/e32_metathesis.png)
