@@ -8,3 +8,6 @@
 
 ### drawing polygons using turtle
 ![](https://github.com/lbias/think-python/blob/master/images/e3_polygon.png)
+
+### three flowers with 7, 10, 20 petals
+![](https://github.com/lbias/think-python/blob/master/images/e4_flower.png)
