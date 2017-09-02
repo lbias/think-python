@@ -59,3 +59,6 @@
 
 ### in the list or not
 ![](https://github.com/lbias/think-python/blob/master/images/e20_inlist.png)
+
+### reverse pair
+![](https://github.com/lbias/think-python/blob/master/images/e21_reverse_pair.png)
