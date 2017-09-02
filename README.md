@@ -89,3 +89,6 @@
 
 ### frequency of letters
 ![](https://github.com/lbias/think-python/blob/master/images/e30_most_frequent.png)
+
+### anagram sets in order
+![](https://github.com/lbias/think-python/blob/master/images/e31_anagram_sets.png)
