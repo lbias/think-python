@@ -53,3 +53,6 @@
 
 ### birthday paradox
 ![](https://github.com/lbias/think-python/blob/master/images/e18_birthday.png)
+
+### word list
+![](https://github.com/lbias/think-python/blob/master/images/e19_wordlist.png)
