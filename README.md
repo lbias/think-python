@@ -17,3 +17,6 @@
 
 ### draw python is the best
 ![](https://github.com/lbias/think-python/blob/master/images/e6_letters.png)
+
+### test to type letters
+![](https://github.com/lbias/think-python/blob/master/images/e7_typewriter.png)
