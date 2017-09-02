@@ -35,3 +35,6 @@
 
 ### estimate of π
 ![](https://github.com/lbias/think-python/blob/master/images/e12_pi.png)
+
+### rotate word
+![](https://github.com/lbias/think-python/blob/master/images/e13_rotate.png)
