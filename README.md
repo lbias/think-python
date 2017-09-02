@@ -80,3 +80,6 @@
 
 ### read dictionary
 ![](https://github.com/lbias/think-python/blob/master/images/e27_pronounce.png)
+
+### homophone
+![](https://github.com/lbias/think-python/blob/master/images/e28_homophone.png)
