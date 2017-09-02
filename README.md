@@ -20,3 +20,6 @@
 
 ### test to type letters
 ![](https://github.com/lbias/think-python/blob/master/images/e7_typewriter.png)
+
+### draw an archimedian spiral
+![](https://github.com/lbias/think-python/blob/master/images/e8_spiral.png)
