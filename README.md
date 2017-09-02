@@ -62,3 +62,6 @@
 
 ### reverse pair
 ![](https://github.com/lbias/think-python/blob/master/images/e21_reverse_pair.png)
+
+### interlock
+![](https://github.com/lbias/think-python/blob/master/images/e22_interlock.png)
