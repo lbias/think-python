@@ -44,3 +44,6 @@
 
 ### the possible odometer readings
 ![](https://github.com/lbias/think-python/blob/master/images/e15_cartalk2.png)
+
+### daughter and mother ages
+![](https://github.com/lbias/think-python/blob/master/images/e16_cartalk3.png)
