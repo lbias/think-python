@@ -65,3 +65,6 @@
 
 ### interlock
 ![](https://github.com/lbias/think-python/blob/master/images/e22_interlock.png)
+
+### invert a dictionary
+![](https://github.com/lbias/think-python/blob/master/images/e23_invert_dict.png)
