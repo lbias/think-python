@@ -26,3 +26,6 @@
 
 ### draw 3 koch curves to make a snowflake
 ![](https://github.com/lbias/think-python/blob/master/images/e9_koch.png)
+
+### evaluate the ackermann function
+![](https://github.com/lbias/think-python/blob/master/images/e10_ackermann.png)
