@@ -74,3 +74,6 @@
 
 ### judgment of duplicates
 ![](https://github.com/lbias/think-python/blob/master/images/e25_has_duplicates.png)
+
+### rotate pairs
+![](https://github.com/lbias/think-python/blob/master/images/e26_rotate_pairs.png)
