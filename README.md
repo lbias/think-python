@@ -134,3 +134,6 @@
 
 ### movie time
 ![](https://github.com/lbias/think-python/blob/master/images/e47_time1.png)
+
+### calculate time
+![](https://github.com/lbias/think-python/blob/master/images/e48_time1_soln.png)
