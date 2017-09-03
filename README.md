@@ -110,3 +110,6 @@
 
 ### markov analysis
 ![](https://github.com/lbias/think-python/blob/master/images/e37_markov.png)
+
+### plot word rank-freqency
+![](https://github.com/lbias/think-python/blob/master/images/e38_zipf.png)
