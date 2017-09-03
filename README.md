@@ -173,3 +173,6 @@
 
 ### pace calculation
 ![](https://github.com/lbias/think-python/blob/master/images/e60_pace_calc.png)
+
+### birthday simulation
+![](https://github.com/lbias/think-python/blob/master/images/e61_birthday.png)
