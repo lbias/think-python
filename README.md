@@ -161,3 +161,6 @@
 
 ### markov analysis
 ![](https://github.com/lbias/think-python/blob/master/images/e56_markov.png)
+
+### poker hand
+![](https://github.com/lbias/think-python/blob/master/images/e57_poker_hand.png)
