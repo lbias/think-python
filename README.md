@@ -143,3 +143,6 @@
 
 ### calculate time
 ![](https://github.com/lbias/think-python/blob/master/images/e50_time2.png)
+
+### point coordinates
+![](https://github.com/lbias/think-python/blob/master/images/e51_point2_soln.png)
