@@ -104,3 +104,6 @@
 
 ### the words in the book that aren't in the word list
 ![](https://github.com/lbias/think-python/blob/master/images/e35_analyze_book2.png)
+
+### 100 random words form the book
+![](https://github.com/lbias/think-python/blob/master/images/e36_analyze_book3.png)
