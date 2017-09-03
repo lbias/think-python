@@ -152,3 +152,6 @@
 
 ### bad kangaroo
 ![](https://github.com/lbias/think-python/blob/master/images/e53_bad_kangaroo.png)
+
+### good kangaroo
+![](https://github.com/lbias/think-python/blob/master/images/e54_good_kangaroo.png)
