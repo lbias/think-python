@@ -128,3 +128,6 @@
 
 ### check whether any corners of a rectangle fall in/on a circle
 ![](https://github.com/lbias/think-python/blob/master/images/e45_circle.png)
+
+### draw axes, rectangle, circle
+![](https://github.com/lbias/think-python/blob/master/images/e46_draw.png)
