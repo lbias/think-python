@@ -149,3 +149,6 @@
 
 ### calculate time
 ![](https://github.com/lbias/think-python/blob/master/images/e52_time2_soln.png)
+
+### bad kangaroo
+![](https://github.com/lbias/think-python/blob/master/images/e53_bad_kangaroo.png)
