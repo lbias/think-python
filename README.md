@@ -131,3 +131,6 @@
 
 ### draw axes, rectangle, circle
 ![](https://github.com/lbias/think-python/blob/master/images/e46_draw.png)
+
+### movie time
+![](https://github.com/lbias/think-python/blob/master/images/e47_time1.png)
