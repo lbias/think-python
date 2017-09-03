@@ -164,3 +164,6 @@
 
 ### poker hand
 ![](https://github.com/lbias/think-python/blob/master/images/e57_poker_hand.png)
+
+### card classifications and their probabilities
+![](https://github.com/lbias/think-python/blob/master/images/e58_poker_hand_soln.png)
