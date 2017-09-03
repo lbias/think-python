@@ -167,3 +167,6 @@
 
 ### card classifications and their probabilities
 ![](https://github.com/lbias/think-python/blob/master/images/e58_poker_hand_soln.png)
+
+### hash map
+![](https://github.com/lbias/think-python/blob/master/images/e59_map.png)
