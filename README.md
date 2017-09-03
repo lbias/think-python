@@ -122,3 +122,6 @@
 
 ### point coordinates
 ![](https://github.com/lbias/think-python/blob/master/images/e43_point1.png)
+
+### distance of two points, move rectangle
+![](https://github.com/lbias/think-python/blob/master/images/e44_point1_soln.png)
