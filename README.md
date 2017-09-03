@@ -155,3 +155,6 @@
 
 ### good kangaroo
 ![](https://github.com/lbias/think-python/blob/master/images/e54_good_kangaroo.png)
+
+### move card
+![](https://github.com/lbias/think-python/blob/master/images/e55_card.png)
