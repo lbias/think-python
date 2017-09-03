@@ -146,3 +146,6 @@
 
 ### point coordinates
 ![](https://github.com/lbias/think-python/blob/master/images/e51_point2_soln.png)
+
+### calculate time
+![](https://github.com/lbias/think-python/blob/master/images/e52_time2_soln.png)
