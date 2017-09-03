@@ -116,3 +116,6 @@
 
 ### print the names of the files in a given directory and its subdirectories
 ![](https://github.com/lbias/think-python/blob/master/images/e39_walk.png)
+
+### find duplicatese
+![](https://github.com/lbias/think-python/blob/master/images/42_find_duplicates.png)
