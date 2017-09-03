@@ -137,3 +137,6 @@
 
 ### calculate time
 ![](https://github.com/lbias/think-python/blob/master/images/e48_time1_soln.png)
+
+### daytime
+![](https://github.com/lbias/think-python/blob/master/images/e49_double.png)
