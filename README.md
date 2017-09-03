@@ -107,3 +107,6 @@
 
 ### 100 random words form the book
 ![](https://github.com/lbias/think-python/blob/master/images/e36_analyze_book3.png)
+
+### markov analysis
+![](https://github.com/lbias/think-python/blob/master/images/e37_markov.png)
