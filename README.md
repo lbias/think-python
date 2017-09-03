@@ -170,3 +170,6 @@
 
 ### hash map
 ![](https://github.com/lbias/think-python/blob/master/images/e59_map.png)
+
+### pace calculation
+![](https://github.com/lbias/think-python/blob/master/images/e60_pace_calc.png)
