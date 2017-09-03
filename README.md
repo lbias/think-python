@@ -158,3 +158,6 @@
 
 ### move card
 ![](https://github.com/lbias/think-python/blob/master/images/e55_card.png)
+
+### markov analysis
+![](https://github.com/lbias/think-python/blob/master/images/e56_markov.png)
