@@ -125,3 +125,6 @@
 
 ### distance of two points, move rectangle
 ![](https://github.com/lbias/think-python/blob/master/images/e44_point1_soln.png)
+
+### check whether any corners of a rectangle fall in/on a circle
+![](https://github.com/lbias/think-python/blob/master/images/e45_circle.png)
